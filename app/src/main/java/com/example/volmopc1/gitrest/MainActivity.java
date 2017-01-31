@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         ///////////////////////////
         //////////////////
         System.out.println("fg");
+        System.out.println("fg");
+        //////////////////////////////
     }
 }
